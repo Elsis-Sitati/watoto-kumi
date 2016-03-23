@@ -86,3 +86,15 @@ div#gallery2 {
     padding-left: 18px;
     background-color: white;
 }
+div#stories {
+    margin-top: 27px;
+    background-color: green;
+    width: 100%;
+    height: 404px;
+    text-align: center;
+    padding-top: 73px;
+}
+button {
+    width: 50%;
+    height: 11%;
+}
