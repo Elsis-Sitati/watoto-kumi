@@ -46,7 +46,7 @@ div#container2 {
     clear: both;
 }
 div#text1 {
-    width: 60%;
+    width: 50%;
     height: 395px;
     padding-top: 40px;
     padding-left: 31px;
@@ -62,7 +62,7 @@ div#images1 {
     padding-top: 73px;
     width: 35%;
     float: left;
-    padding-left: 26px;
+    padding-left: 125px;
 }
 div#gallery1 {
     height: 292px;
